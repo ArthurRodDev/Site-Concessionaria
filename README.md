@@ -4,14 +4,14 @@
  Criado para treino, consultar a __"LICENSE"__
  ***
  
- - **Caso queiram deixar sugestões de design para eu seguir, eu aceito** 🤓
- - **If you want to leave design suggestions for me to follow, I accept** 🤓
+ - **Caso queiram deixar sugestões de design para eu seguir, eu aceito** 😉
+ - **If you want to leave design suggestions for me to follow, I accept** 😉
 
  ### Legenda
- Icon|Descrição|
- ---|---
- 🔵 | Preferência BAIXA
- 🌟 | Novas metas
+ Qnt.|Icon|Descrição|
+ ---|---|---
+ 3 | 🔵 | Preferência BAIXA
+ 0 | 🌟 | Novas metas
  
  ***
  
