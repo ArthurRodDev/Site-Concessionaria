@@ -19,17 +19,3 @@ main header {
   text-align: center;
   display: block;
 }
-
-article {
-  direction: ltr;
-  width: 50%;
-}
- 
-aside {
-  display: inline;
-  direction: rtl;
-}
-
-footer {
-  text-align: center;
-}
