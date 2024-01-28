@@ -1,0 +1,29 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  background-color: darkgray;
+  display: grid;
+}
+
+main {
+  align-items: center;
+  flex: auto;
+  width: auto;
+  margin: 10% auto;
+}
+
+article {
+  width: auto;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+article#logo01{
+  align-items: start;
+}
+article img {
+  background-color: rgba(255, 255, 255, 0.5);
+}
