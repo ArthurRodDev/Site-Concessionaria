@@ -7,23 +7,10 @@
 
 body {
   background-color: darkgray;
-  display: grid;
-}
-
-main {
+  display: flex;
   align-items: center;
-  flex: auto;
-  width: auto;
-  margin: 10% auto;
 }
 
 article {
-  width: auto;
-  background-color: rgba(255, 255, 255, 0.5);
-}
-article#logo01{
-  align-items: start;
-}
-article img {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(245, 245, 245, 0.7);
 }
