@@ -7,10 +7,17 @@
 
 body {
   background-color: darkgray;
-  display: flex;
-  align-items: center;
+  display: block;
 }
 
-article {
-  background-color: rgba(245, 245, 245, 0.7);
+main {
+  align-self: center;
+  border: 2px solid red;
+  text-align: center;
+  width: 15%;
+}
+div.logo {
+
+  background-color: white;
+  border-radius: 20px;
 }
